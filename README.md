@@ -1,74 +1,30 @@
 
-<html>
+INTRODUCTION & OBJECTIVES
 
-<body alink-violet vlink=#da000d bgcolor=black>
+Propest Co. Itd is one of the popular companies for pesticides, which is expected to provide its valuable services to its customers efficiently. 
+With the advent of new technology every task in modern life is being absorbed rapidly within the routine of human life. 
+Such technologies are applied for various field to improve the overall system performance and to deepen the organization grow.
 
-    <center>
 
-        <img src="images\i43.jpg" height="20%" border=2> 
+Propest Co. has also thought of utilizing such technology to reach its expanding customer base and provide efficient service to the customer. 
+The result one such attempt is this Product called Distribution Channel Management System.
+This product has been mainly designed to overcome some of the problems faced with the previous system. 
+The main problem faced was unnecessary delay in information processing and expensive.
 
-        <img src="gif\image1.gif" width="80%" height="20%" border=2>
+PURPOSE OF THE PROJECT
 
-        <hr>
+The proposed system should serve the following feature:
 
-        <table border=0 align=left>
+• Automate the communication between the clients and the company.
 
-            <tr><td>
+• Obtain feedback from the clients and dealers
 
-                <a href="Mgt.aspx" ><img src="gif\Image01.gif" alt="Administrator" id=IMGI></a>&nbsp;<br><a href="clientlogin.aspx"><img src="giflcl.gif" alt="Client"></a>&nbsp;<br><a href="dealerlogin.aspx"><img src="gif\image03.gif" alt=
+• Generate reports from dealers with specific requirement
 
-                    "Dealer"></a>&nbsp;<br>
+• Provide updated details of the company products
 
-                    <a href="semplogin.aspx" ><img src="gif\Image04.gif" alt="Sales Employee" border=2></a>&nbsp;<br><a href="list.aspx?id1=products"><img src="giflimage05.gif" alt = "Product"></a>&nbsp;<br><a href="list.aspx?id1=dealers"><img src="gif\dldetails.gif" alt = "Dealer Details"></a></td></TD>
+• Generate and report the sales data in accordance with the specific dealers and product.
 
-                </tr>
+• Obtain workshop details.
 
-            </table>
-
-            <table bgcolor="thistle" align= right border-1 width="20%">
-
-                <TBODY>
-
-                    <tr><td><FONT size=4 color=#da000d face="Monotype Corsiva"><center><b><u>Seasonal products</u></b></FONT>
-
-                        <P></P><font size=4>we launch every summer products which are a very useful to the customer</font><br><font face = "Times New Roman" size=3><b><i>
-
-                            <a href="vs_product.aspx">view</a></b></I></I></B></font>
-
-                        </TD></TR></TBODY></TABLE>
-
-                        <table align=center width = "50%">
-
-                            <tr><td>
-
-                                <FONT size=5 color=#de0000 face = "Monotype Corsiva"><b><u>About us:</b></U></FONT><br><font size=2 face = "Georgia" color="pink">Good chance for interested people in 66 FLORE.Our site helps you to get all information and also if interested can buy from us. We invite the dealers as well as the clients who are interested in our product. Interested dealers can register and contact the manager by logging in.</B><br>
-
-     <font color="#de0000" size=3 face = "Roman"><b>Client</b></font>&nbsp;<font size=2 face="Georgia" color = "pink">can register and directly contact the manager to place orders.<br>
-
-        <font color="#de0000" size=3 face = "Roman"><b>Dealers</b></font>&nbsp;<font size=2 face = "Georgia" color="pink">has to register first and if he/she is assigned the requested project, will be informed through given Email address.He/She will be assigned with a DealerId &amp; Password using which he/she has to login to do the process.So please do take care while registering,and giving Email address. For further queries, e-mail us by<a href="mailto:mgr_dcms@dcms.com" style="color:cyan">mgr_dems@dcms.com</a>
-
-        </font></font></font></td></tr></table></CENTER>
-
-        <center>
-            <marquee>
-                <img src="images\i46.jpg" width="10%" border = 2> 
-                
-                <img src="images\i8.jpg" width="10%" border=2>
-
-                <img src="images\i12.jpg" width="10%" border=2> 
-                
-                <img src="images\soaps1.JPG" width="10%" border = 2> 
-                
-                <img src="images\S530_4.JPG" width="10%" border=2> 
-                
-                <img src="images\p279871 reg.JPG" width="10%" border=2> 
-                
-                <img src="images\i28.jpg" width="10%" border=2> 
-                
-                <img src="images\i56.jpg" width="10%" border=2>
-            </marquee>
-        </center>
-
-    </body>
-
-    </html>
+• Attain each and every query of the user.
